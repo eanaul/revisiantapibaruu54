@@ -1,0 +1,33 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#projects .card .card-body a {
+  text-align: center;
+}
+
+.sonic {
+  width: 50px;
+}
+
+.inf {
+  font-size: 80px;
+}
+
+.motto {
+  font-size: 14.5px;
+}
+
+.ho:hover{
+  transition: 0.7s;
+  transform: scale(1.1);
+}
